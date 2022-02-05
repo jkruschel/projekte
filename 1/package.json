@@ -4,7 +4,7 @@
   "description": "Computergrafik 1",
   "main": "index.html",
   "scripts": {
-    "deploy": "gh-pages -d . -b master --repo https://github.com/jkruschel/shearESA"
+    "deploy": "gh-pages -d . -b master --repo https://github.com/jkruschel/projekteComputerGrafik/tree/master/1"
   },
   "author": "Jascha Kruschel",
   "license": "ISC",
