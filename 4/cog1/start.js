@@ -8,7 +8,7 @@ require(["dojo", "dojo/parser", "dojo/domReady!"], function (dojo) {
     cacheBust: new Date(),
     waitSeconds: 5,
     paths: {
-      "cog1": "/3/cog1",
+      "cog1": "/4/cog1",
     },
     aliases: [
       ["app", "cog1/app"],

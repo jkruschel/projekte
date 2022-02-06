@@ -413,7 +413,9 @@ define(["exports", "data", "glMatrix"], function(data, exports) {
           );
 			}
 		}
-
+		for (var n = 0; n < this.vertexNormals.length; n++) {
+			vec3.normalize(this.vertexNormals[n]);
+		  }
 		// END exercise Vertex-Normals
 	}
 	

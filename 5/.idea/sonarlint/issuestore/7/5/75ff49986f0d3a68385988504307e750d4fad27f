@@ -1,0 +1,13 @@
+
+Njavascript:S1481&"2Remove the declaration of the unused 'u' variable.(ÉºÆÛ
+Kjavascript:S1854&"/Remove this useless assignment to variable "u".(ÉºÆÛ
+Njavascript:S1481("2Remove the declaration of the unused 'v' variable.(‰”Öä
+Kjavascript:S1854("/Remove this useless assignment to variable "v".(‰”Öä
+Qjavascript:S1481*"5Remove the declaration of the unused 'rgba' variable.(°ºÇÓ
+Njavascript:S1854*"2Remove this useless assignment to variable "rgba".(°ºÇÓ
+Wjavascript:S1481,"<Remove the declaration of the unused 'textureRGBA' variable.(Ç•Ú	
+Tjavascript:S1854,"9Remove this useless assignment to variable "textureRGBA".(Ç•Ú	
+Rjavascript:S1481/"6Remove the declaration of the unused 'index' variable.(ËÞ¯ý
+Bjavascript:S1481l"&Remove unused function 'sampleMerge4'.(—Ëµ€
+Ejavascript:S1186l")Unexpected empty function 'sampleMerge4'.(—Ëµ€
+;javascript:S125€"Remove this commented out code.(ú’‚
